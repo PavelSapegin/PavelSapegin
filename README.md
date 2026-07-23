@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,kotlin,pytorch,sklearn,git,sqlite,docker,linux,fastapi&theme=light" />
 </p>
 
 ---
@@ -35,7 +31,6 @@
 ---
 
 ### 🧰 Tech I use
-
 **Languages:** Python, C++, Kotlin
 **ML/DS:** PyTorch, scikit-learn, LightGBM, XGBoost, Catboost Optuna, SHAP, pandas, MLFlow
 **Other:** Git, SQLite, Compose Desktop
