@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Pavel 👋</h1>
 
-<!--
-**PavelSapegin/PavelSapegin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineering student · building toward Machine Learning Engineering
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+- 🎓 1st-year student of **Software Engineering** at SPBU
+- 🤖 Currently focused on **Machine Learning** — from classic ML fundamentals to deep learning pipelines
+- 🎯 Working toward an ML engineering internship track, with the goal of joining a top tech company (or building my own ML product) within a few years
+- 🧠 Interested in the *process* of learning models as much as the results — reinforcement learning agents got me hooked on ML in the first place
+- 🌱 Also have a systems programming background in C++ (templates, move semantics, RAII, STL)
+
+---
+
+### 🔭 What I'm working on
+
+| Project | Description |
+|---|---|
+| 🎙️ **ASR Pipeline** | Fine-tuning Whisper-tiny on the Common Voice (ru) subset using Seq2SeqTrainer; tracking WER as the core metric |
+| 📊 **ML Portfolio** | Classic ML projects — time series forecasting & recommendation systems — built for practical, production-style depth |
+| 🎲 **Yahtzee Game** | A complete Kotlin/Compose Desktop game with SQLite persistence, ELO ratings, and clean architecture |
+
+---
+
+### 🧰 Tech I use
+
+**Languages:** Python, C++, Kotlin
+**ML/DS:** PyTorch, scikit-learn, LightGBM, XGBoost, Catboost Optuna, SHAP, pandas, MLFlow
+**Other:** Git, SQLite, Compose Desktop
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavelSapegin&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelSapegin&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Currently building my way toward Sber / Yandex / VK internship cycles — one project at a time.</i>
+</p>
